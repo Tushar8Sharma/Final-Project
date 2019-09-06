@@ -1,0 +1,7 @@
+Role Based Authorization - https://jasonwatmore.com/post/2018/11/22/angular-7-role-based-authorization-tutorial-with-example
+
+Angular Routing Example - 
+
+https://stackblitz.com/angular/mklrapbxkjl?file=src%2Fapp%2Fheroes%2Fhero-list%2Fhero-list.component.ts
+
+https://angular.io/guide/router#browser-url-styles
